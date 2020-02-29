@@ -1,5 +1,5 @@
 import unittest
-from mycodes import *
+from tiny_app import *
 
 class MyTests(unittest.TestCase):
    ##your playground starts
