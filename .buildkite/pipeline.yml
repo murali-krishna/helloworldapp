@@ -1,0 +1,4 @@
+steps:
+  - command: "pip install -r requirements.txt\npython mytests.py"
+    label: "Test Hello world"
+    timeout: 10
